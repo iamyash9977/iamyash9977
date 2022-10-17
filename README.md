@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yash Jagtap
+- 👋 Hi, I’m Yash Jagtap Patil
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning A Full Stack Development Bootcamp.
 - 💞️ I’m looking to collaborate on Web Development.
