@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yash Jagtap
-- 👀 I’m interested in Softwares.
+- 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning A Full Stack Development Bootcamp.
 - 💞️ I’m looking to collaborate on Web Development.
 - 📫 How to reach me Email : Jagtapyash9977@gmail.com
