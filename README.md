@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Yash Jagtap Patil
+- 👋 Hi, I’m Yash Jagtap
 - 👀 Front-End Web Dev.
-- 🌱 I’m currently learning A Full Stack Dev.
-- 💞️ Although I'm from electronics and telecommunications the is nothing rewarding to me than exploring new technologies and development. 
+- 🌱 I’m currently learning full stack web dev.
+- 🚀 Always keen on finding the optimal solution to problems 
+     and coming up with perfect design patterns.
 - 📫 Let's Catchup : Jagtapyash9977@gmail.com
 
 <!---
