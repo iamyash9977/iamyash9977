@@ -1,4 +1,3 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.bit.ai%2Fembed-github%2F&psig=AOvVaw3G88tVpVAWLySsbDLdJAX3&ust=1708672187306000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIDxsomyvoQDFQAAAAAdAAAAABAE)](https://www.linkedin.com/in/-yash-jagtap/)
 <h1 align="center">Hi 👋, I'm Yash Jagtap</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
