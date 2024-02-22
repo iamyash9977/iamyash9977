@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/d58f4d1fef0e9ff37cfde0d2f5c5b28f0362bcd529e374bb889f250716ce05bf/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3630343739383638323932613564323965363961633662392f30323366393034612d643363612d343936632d396166622d3937343562326437623530332f4261736963732b6f662b566964656f2b436f64696e672e6769663f666f726d61743d3130303077)](https://www.linkedin.com/in/-yash-jagtap/)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.bit.ai%2Fembed-github%2F&psig=AOvVaw3G88tVpVAWLySsbDLdJAX3&ust=1708672187306000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIDxsomyvoQDFQAAAAAdAAAAABAE)](https://www.linkedin.com/in/-yash-jagtap/)
 <h1 align="center">Hi 👋, I'm Yash Jagtap</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
