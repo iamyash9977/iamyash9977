@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamyash9977&label=Profile%20views&color=0e75b6&style=flat" alt="iamyash9977" /> </p>
 
-<p align="left"> <a href="https://twitter.com/iamyash9977" target="blank"><img src="https://img.shields.io/twitter/follow/iamyash9977?logo=twitter&style=for-the-badge" alt="iamyash9977" /></a> </p>
+[![Peerlist](https://github-readme-badge.peerlist.io/api/yashjagtap)](https://peerlist.io/yashjagtap)
 
 - 🌱 I’m currently learning **Full stack development**
 
